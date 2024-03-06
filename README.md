@@ -7,17 +7,17 @@ Basic Edition - $85, Premium Edition - $175, Demo - $30 - You can flash only bit
 
 # CRYPTO
 
-💸 Tether USD [ Standard Edition 450 tUSD / Day | Premium Edition 1000 tUSD / Day ]
+💸 Tether USD [ Basic Edition 450 tUSD / Day | Premium Edition 1000 tUSD / Day ]
 
-💸 Litecoin [ Standard Edition 5.5 ltc / Day | Premium Edition 12,15 ltc / Day ]
+💸 Litecoin [ Basic Edition 5.5 ltc / Day | Premium Edition 12,15 ltc / Day ]
 
-💸 Monero [ Standard Edition 3.15 xmr / Day | Premium Edition 7 xmr / Day ]
+💸 Monero [ Basic Edition 3.15 xmr / Day | Premium Edition 7 xmr / Day ]
 
-💸 Solana [ Standard Edition 3.5 sol / Day | Premium Edition 8 sol / Day ]
+💸 Solana [ Basic Edition 3.5 sol / Day | Premium Edition 8 sol / Day ]
 
-💸 Ethereum [ Standard Edition 0.15 eth / Day | Premium Edition 0.30 eth / Day ]
+💸 Ethereum [ Basic Edition 0.15 eth / Day | Premium Edition 0.30 eth / Day ]
 
-💸 Bitcoin [ Standard Edition 0.0070 btc / Day | Premium Edition 0.020 btc / Day ]
+💸 Bitcoin [ Basic Edition 0.0070 btc / Day | Premium Edition 0.020 btc / Day ]
 
 # FEATURES
 
