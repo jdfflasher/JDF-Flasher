@@ -35,4 +35,4 @@ Basic Edition - $85, Premium Edition - $175, Demo - $50 - You can flash only bit
 
 🔗 If you require any further information, feel free to contact me.
 
-🔗 Contact [https://t.me/jdfstar](https://t.me/jdfstar)https://t.me/jdfstar
+🔗 Contact [https://t.me/jdfstar](https://t.me/jdfstar)
