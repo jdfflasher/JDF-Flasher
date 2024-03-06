@@ -3,7 +3,7 @@ Bitcoin Flashing Software
 
 ## PRICING
 
-Basic Edition - $85, Premium Edition - $175, Demo - $50 - You can flash only bitcoin
+Basic Edition - $85, Premium Edition - $175, Demo - $30 - You can flash only bitcoin
 
 # CRYPTO
 
