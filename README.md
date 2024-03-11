@@ -1,5 +1,5 @@
-# BTC-Flasher
-Bitcoin Flashing Software
+# JDF-Flasher
+Crypto Flashing Software
 
 ## PRICING
 
@@ -35,4 +35,4 @@ Basic Edition - $85, Premium Edition - $175, Demo - $30 - You can flash only bit
 
 🔗 If you require any further information, feel free to contact me.
 
-🔗 Contact [https://t.me/jdfstar](https://t.me/jdfstar)
+🔗 Contact https://t.me/jdfflasher or our channel https://t.me/jdfflashing
